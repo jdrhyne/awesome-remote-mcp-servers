@@ -2351,6 +2351,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nutrient MCP](https://www.nutrient.io/api/mcp-server-pdf-automation-llm/) `https://mcp.nutrient.io/mcp`
   [![Nutrient MCP connector](https://glama.ai/mcp/connectors/io.nutrient/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.nutrient/mcp)
   🔐 - Extract fields, parse to Markdown, classify, convert, OCR, sign and redact PDFs and Office documents.
+- [Octocrawl](https://octocrawl.dev/?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://mcp.octocrawl.dev/mcp`
+  [![Octocrawl MCP connector](https://glama.ai/mcp/connectors/io.github.77777R7/octocrawl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.77777R7/octocrawl)
+  🔓 - Scrape pages to Markdown with an evidence record and map a site's URLs; blocked pages are reported, not hidden.
+- [Online Web Directory](https://onlinewebdirectory.net) `https://onlinewebdirectory.net/mcp`
+  [![Online Web Directory MCP connector](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry/badges/score.svg)](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry)
+  🔓 - How websites treat AI agents: bot walls, JavaScript needs, robots rules and llms.txt, before you fetch.
 - [Openings](https://avagama.co/openings/) `https://openings.avagama.co/mcp`
   [![Openings MCP connector](https://glama.ai/mcp/connectors/co.avagama/openings/badges/score.svg)](https://glama.ai/mcp/connectors/co.avagama/openings)
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
